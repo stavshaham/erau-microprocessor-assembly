@@ -9,8 +9,8 @@ The projects focus on low-level programming, memory-mapped data handling, iterat
 ## 🛠️ Tech Stack & Architecture
 
 * **Language:** ARM Assembly
-* **Development Environment:** IAR Embedded Workbench / Simulator
-* **Architecture:** ARM Cortex-M4
+* **Development Environment:** Simulator (CPUlator)
+* **Architecture:** ARMv7
 
 ---
 
